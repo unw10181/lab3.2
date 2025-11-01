@@ -22,6 +22,9 @@ body {
   border-radius: 15px;
   margin-bottom: 15px;
 }
+#image:hover {
+  opacity: 10%;
+}
 
 .card-content {
   padding: 20px;
@@ -68,4 +71,8 @@ body {
 
 footer {
   margin-top: 30px;
+}
+
+.card:hover {
+  background-color: brown;
 }
