@@ -50,7 +50,6 @@ body {
   border-radius: 15px;
   border: 1px solid hsl(0, 0%, 7%);
   box-shadow: 8px 8px 0px hsl(0, 0%, 7%);
-
   margin-top: 30px;
 }
 
@@ -75,4 +74,18 @@ footer {
 
 .card:hover {
   background-color: brown;
+}
+
+@media (max-width: 350px) {
+  .card {
+    width: 85%;
+    padding: 14px;
+    margin-top: 20px;
+  }
+  p {
+    font-size: 0.9rem;
+  }
+  #learning {
+    font-size: 1.05rem;
+  }
 }
