@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Heebo&display=swap");
+@import url("https://fonts.google.com/specimen/Outfit");
 
 .attribution {
   font-size: 11px;
@@ -13,7 +13,7 @@
 
 body {
   background-color: #d6e0ee;
-  font-family: heebo, sans-serif;
+  font-family: outfit, sans-serif;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -32,7 +32,7 @@ body {
 
 #image {
   border-radius: 15px;
-  width: 100%;
+  width: 90%;
 }
 
 #header {
@@ -43,11 +43,12 @@ body {
 
 #paragraph {
   color: #818591;
-  font-size: 0.9rem;
+  font-size: 400;
   line-height: 1.4;
   margin-bottom: 10px;
 }
 
 #footer {
   align-self: flex-end;
+  margin-top: 30px;
 }
