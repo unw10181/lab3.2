@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css?family=Heebo&display=swap");
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  margin-top: 15px;
+  color: #1f2c46;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+  text-decoration: none;
+}
+
+body {
+  background-color: #d6e0ee;
+  font-family: heebo, sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.qr-card {
+  background-color: white;
+  flex-direction: column;
+  width: 320px;
+  padding: 16px;
+  border-radius: 15px;
+  flex-direction: column;
+  text-align: center;
+}
+
+#image {
+  border-radius: 15px;
+  width: 100%;
+}
+
+#header {
+  color: #1f2c46;
+  font-weight: 700;
+  margin: 18px 0 10px;
+}
+
+#paragraph {
+  color: #818591;
+  font-size: 0.9rem;
+  line-height: 1.4;
+  margin-bottom: 10px;
+}
+
+#footer {
+  align-self: flex-end;
+}
