@@ -5,3 +5,7 @@ How did using Bootstrap utility classes and components simplify your styling pro
 In built responsiveness which saved me a lot of time
 In what scenarios might you choose not to use Bootstrap and write custom CSS instead?
 For specific colors or features not specified in bootstrap.
+
+![Screenshot Blog previer](image.png)
+
+![QR code screenshot](image-1.png)
